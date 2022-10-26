@@ -1,4 +1,4 @@
-# ETLFinComData
+# ETL Financial Company Data
 Python Project for Data Engineering
 
   <h2>Project Overview</h2>
